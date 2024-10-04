@@ -24,19 +24,17 @@
   <a href="https://leetcode.com/siddhant_gureja_07" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="siddhant-50" height="200" width="200" />
   </a>
-</div>
+  
 
-
-<div style="display: flex; gap: 10px;">
   <a href="https://leetcode.com/siddhant_gureja_07/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" alt="siddhant-50" height="200" width="200" />
   </a>
 
-  <div style="display: flex; gap: 10px;">
   <a href="https://leetcode.com/siddhant_gureja_07/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" alt="siddhant-100" height="200" width="200" />
   </a>
-  
+
+  </div>
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/siddhant_gureja_07?theme=dark&font=Nunito&ext=heatmap" /> 
  
 ### ✍️ Random Dev Quote
