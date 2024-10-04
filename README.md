@@ -14,17 +14,20 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sidgureja7803)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgureja7803)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
+
 <div style="display: flex; gap: 10px;">
-  <a href="https://leetcode.com/u/siddhant_gureja_07/" target="_blank">
+  <a href="https://leetcode.com/siddhant_gureja_07/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="akshita50" height="200" width="200" />
   </a>
-  <a href="https://leetcode.com/u/siddhant_gureja_07/" target="_blank">
+  <a href="https://leetcode.com/siddhant_gureja_07" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="akshita50" height="200" width="200" />
   </a>
 </div>
 
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/siddhant_gureja_07?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/siddhant_gureja_07?theme=dark&font=Nunito&ext=heatmap" /> 
+ 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
