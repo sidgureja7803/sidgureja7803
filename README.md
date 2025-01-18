@@ -51,14 +51,12 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidgureja7803&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidgureja7803&theme=radical" alt="GitHub Streak Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidgureja7803&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidgureja7803&theme=radical" alt="GitHub Streak Stats" height="180px" />
 </p>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidgureja7803&theme=radical" alt="Most Used Languages" />
 </p>  
-
 ---
 
 ## 💡 Projects
