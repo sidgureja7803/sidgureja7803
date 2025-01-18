@@ -15,9 +15,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 
 ## 🌐 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidgureja)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sidgureja)  
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sidgureja)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidgureja) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sidgureja) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sidgureja)  
 
 ---
 
@@ -51,12 +49,13 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidgureja7803&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidgureja7803&theme=radical" alt="GitHub Streak Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidgureja7803&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
 </p>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidgureja7803&theme=radical" alt="Most Used Languages" />
-</p>  
+</p>
+
 ---
 
 ## 💡 Projects
