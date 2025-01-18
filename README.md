@@ -38,6 +38,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 ## 🌟 Achievements
 
 - 🌍 Active contributor to **Hacktoberfest** 2024 !!
+
 [![An image of @sidgureja7803's Holopin badges](https://holopin.me/sidgureja7803)](https://holopin.io/@sidgureja7803)  
 
 - 🏆 Ranked in **Top 2%** in LeetCode Weekly Contests.  
