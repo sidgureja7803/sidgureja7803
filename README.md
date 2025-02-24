@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 
 <p align="center">
   <a href="https://leetcode.com/sidgureja">
-    <img src="https://leetcard.jacoblin.cool/sidgureja?theme=dark&font=Nunito" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/sidgureja?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br/>
   <a href="https://leetcode.com/sidgureja">
