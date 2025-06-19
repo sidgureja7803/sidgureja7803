@@ -1,86 +1,142 @@
-# 👋 Hi, I'm Siddhant Gureja!  
+<!-- Profile Banner with Three.js animation background -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sidgureja7803/sidgureja7803/main/assets/threejs-header.gif" alt="Header Animation" />
+</p>
 
-Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate about building innovative web applications and exploring cutting-edge technologies.
+# 👋 Hi, I'm Siddhant Gureja
+
+🎯 A **Full Stack Web Developer** crafting impactful and scalable web apps using **MERN**, **Next.js**, and **Three.js**.  
+🌐 Exploring 3D experiences, real-world solutions, and everything in between.  
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on advanced **MERN Stack** projects.  
-- 👯 Open to collaborating on **Frontend Projects** and contributing to Open Source.  
-- 🌱 Actively learning **Next.js**, **Three.js**, and **GSAP** for dynamic web experiences.  
-- 🤝 Looking for guidance to master **MERN Stack** and backend systems.  
+- 🔭 Currently working on advanced **MERN Stack** and **3D Web** projects  
+- 🤝 Selected contributor for **C4GT 2025** – solving real-world governance issues  
+- 🌱 Learning **Three.js**, **Next.js**, **GSAP**, and system design  
+- 🧠 Solved **600+ DSA problems** on LeetCode  
+- 👯 Open to collaborating on **Frontend**, **Open Source**, or **GovTech** solutions  
+- 💬 Ask me about **web dev, backend, DSA**, or **system design**
 
 ---
 
-## 🌐 Let's Connect!  
+## 🌟 Highlight – C4GT 2025 Project  
+### 📍 ADC Mahendragarh: Digitizing Land Demarcation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidgureja) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sidgureja) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sidgureja)  
+> **Unresolved land demarcation disputes** in Mahendragarh arise from duplicate entries, slow updates & no tracking.
 
----
+📌 **Goal:** Build a **plot-wise demarcation tracker** for revenue officials to view historical & ongoing demarcation actions.
 
-## 💻 Skills and Tools  
+🚧 **Outcome:**  
+- 📊 Live interface to upload/view plot-level records  
+- ⏳ Track pending demarcation tasks  
+- ⚖️ Help reduce land ownership disputes
 
-### Programming Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-
-### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### Design Tools  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-
-### Animation Libraries  
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)  
+🔗 [More About C4GT](https://c4gt.dev)
 
 ---
 
-## 🌟 Achievements
+## 🛠️ Projects I'm Proud Of
 
-- 🌍 Active contributor to **Hacktoberfest** 2024 !!
-
-[![An image of @sidgureja7803's Holopin badges](https://holopin.me/sidgureja7803)](https://holopin.io/@sidgureja7803)  
-
-- 🏆 Ranked in **Top 2%** in LeetCode Weekly Contests.  
-- 🥇 Secured **1st place** at Hackmol 5.0, NIT Jalandhar.  
-- 🥉 **3rd place** at CodeSprint, ACM TIET.  
+### 🔥 [DevTinder](https://github.com/sidgureja7803/DevTinder)
+> A **developer dating app** – Tinder-style swiping for devs to find & connect with global collaborators.  
+Tech: `React`, `Node.js`, `MongoDB`, `Firebase OTP`, `Real-time Matching`
 
 ---
 
-## 📊 GitHub Stats  
+### ⚡ [CodeFusion](https://github.com/sidgureja7803/CodeFusion)
+> **Collaborative code platform** to chat and code live in rooms using Judge0 API  
+Tech: `React`, `Express`, `Socket.IO`, `Monaco Editor`, `JWT`, `Docker-ready`
+
+---
+
+### 🎯 [ResumeForge](https://github.com/sidgureja7803/ResumeForge)
+> Generate sleek, ATS-optimized resumes instantly with PDF export support  
+Tech: `React`, `Tailwind`, `Formik`, `HTML-to-PDF`, `Zustand`
+
+---
+
+### 🐦 [TwitPilot](https://github.com/sidgureja7803/TwitPilot)
+> A **Twitter clone** that includes login, profiles, tweet feeds & follower system  
+Tech: `React`, `Node`, `MongoDB`, `JWT`, `Redux`
+
+---
+
+### 🛡️ [Priv-Guard](https://github.com/sidgureja7803/Priv-guard)
+> Privacy-first browser extension that detects data-leaks and blocks trackers in real-time  
+Tech: `Manifest V3`, `JavaScript`, `Chrome API`, `Service Workers`
+
+---
+
+## 🧰 Skills and Tools
+
+### 💻 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/next.js-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Design & Animation  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)  
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
+
+---
+
+## 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidgureja7803&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidgureja7803&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidgureja7803&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidgureja7803&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 💡 Projects
-
-- **[Venture Lab](#)**: Active contributor in impactful projects.  
-- **Open Source Enthusiast**: Regular participant in **Hacktoberfest**.  
-
----
-
-## 📚 LeetCode Highlights  
+## 🧠 LeetCode Highlights
 
 <p align="center">
-    <a href="https://leetcode.com/sidgureja">
-    <img src="https://leetcard.jacoblin.cool/sidgureja?theme=dark&font=Nunito&ext=contest" alt="LeetCode Contest Rating" />
-    </a>
-</p> 
+  <a href="https://leetcode.com/sidgureja">
+    <img src="https://leetcard.jacoblin.cool/sidgureja?theme=dark&font=Nunito&ext=contest" alt="LeetCode Profile" />
+  </a>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote  
-> "The best way to predict the future is to invent it."  
+## 🏅 Achievements
+
+- 🏆 Top **2%** in LeetCode Weekly Contests  
+- 🥇 1st Place - **Hackmol 5.0** @ NIT Jalandhar  
+- 🥉 3rd Place - **CodeSprint** @ ACM TIET  
+- 💻 Contributor @ **Hacktoberfest 2024**  
+- 🎓 Merit I Scholar - **TIET** (100% Fee Waiver)
+
+[![Holopin Badges](https://holopin.me/sidgureja7803)](https://holopin.io/@sidgureja7803)
 
 ---
 
-## 🎯 Let's Build Something Amazing Together!  
+## 🌐 Let’s Connect
 
-If you're interested in collaborating or discussing exciting projects, feel free to [reach out to me](https://www.linkedin.com/in/sidgureja).  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidgureja)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sidgureja)  
+[![X/Twitter](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sidgureja)
+
+---
+
+### ✍️ Quote for You  
+> "The best way to predict the future is to invent it." — Alan Kay
+
+---
+
+## 🧩 Let's Build the Future, One Line of Code at a Time.
+
+If you want to **collaborate**, contribute to **open source**, or work on impactful **real-world tech**,  
+**[drop me a message](https://linkedin.com/in/sidgureja)** 🚀
+
+---
+
