@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Siddhant Gureja!
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,12 +12,12 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **C4GT 2025** - ADC Mahendragarh Land Demarcation Project
-- 🌱 Actively learning **Next.js**, **Three.js**, and **GSAP** for dynamic web experiences
-- 👯 Open to collaborating on **Frontend Projects** and contributing to Open Source
-- 🤝 Looking for guidance to master **MERN Stack** and backend systems
-- 💼 Built **INCUBATOR CRM** for Thapar Innovate to manage startup ecosystems
-- 🎯 Passionate about solving real-world problems through technology
+* 🔭 Currently working on **C4GT 2025** - ADC Mahendragarh Land Demarcation Project
+* 🌱 Actively learning **Next.js**, **Three.js**, and **GSAP** for dynamic web experiences
+* 👯 Open to collaborating on **Frontend Projects** and contributing to Open Source
+* 🤝 Looking for guidance to master **MERN Stack**, **DevOps**, and **GenAI**
+* 💼 Built **INCUBATOR CRM** for Thapar Innovate to manage startup ecosystems
+* 🎯 Passionate about solving real-world problems through technology
 
 ---
 
@@ -25,10 +25,10 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidgureja)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sidgureja)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sidgureja)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhantgureja39@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sidgureja)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/sidgureja)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge\&logo=X\&logoColor=white)](https://x.com/sidgureja)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:siddhantgureja39@gmail.com)
 
 </div>
 
@@ -36,46 +36,59 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 
 ## 💻 Skills and Tools
 
-### Programming Languages & Frameworks
+### Languages & Web Development
+
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 </div>
 
-### Databases & Backend
+### Frontend Libraries & Animation
+
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge\&logo=three.js\&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge\&logo=greensock\&logoColor=white)
 
 </div>
 
-### Frontend & Animation
+### Backend & Databases
+
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
 
 </div>
 
-### Design & Development Tools
+### DevOps & Tools
+
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C3A42.svg?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+
+</div>
+
+### AI & GenAI Tools
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-%2317283A.svg?style=for-the-badge\&logo=langchain\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%23FFDD57.svg?style=for-the-badge\&logo=data\&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-AI-%230B0B45.svg?style=for-the-badge\&logo=google\&logoColor=white)
 
 </div>
 
@@ -83,114 +96,95 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 
 ## 🌟 Major Projects
 
-### 🏛️ **C4GT 2025 - ADC Mahendragarh Land Demarcation System**
-*Government Digital Transformation Project*
+### 💼 **DevPilot AI**
 
-**Problem Statement:** Unresolved land demarcation disputes in Mahendragarh district arise due to duplicate entries, delayed updates, and lack of historical tracking.
+*AI-Powered DevOps Automation Platform*
 
-**Solution:** Digitizing the demarcation process by building a plot-wise demarcation tracking system where revenue officers can log and view both historical and current activities.
+* Connect your GitHub account, select a repository, and get deployment plans
+* Auto CI/CD setup with tools like Jenkins, Apache, GitHub Actions
+* Repository analysis using AI for environment setup suggestions
 
-**Expected Outcome:** A live interface to upload and view plot-level demarcation records, enabling revenue officials to track pending work and reduce dispute volume.
-
-**Tech Stack:** `MERN Stack` `MongoDB` `React.js` `Node.js` `Express.js`
-
----
-
-### 🏢 **INCUBATOR CRM - Thapar Innovate**
-*Startup Ecosystem Management Platform*
-
-**Key Features:**
-- 🎯 Designed a comprehensive platform for incubators to manage startups applying for incubation, monitor multiple programs, and oversee cohort-specific activities and progress
-- 📊 Enabled detailed startup tracking by integrating functionalities to view funding status, team size, and mentorship under specific cohorts
-- ⚡ Streamlined API management by utilizing Context API to handle overlapping calls, enhancing performance and reducing redundancy across **110+ APIs**
-
-**Tech Stack:** `React.js` `Node.js` `MongoDB` `Express.js` `Context API`
+**Tech:** `LangChain` `Node.js` `GitHub API` `Docker` `CI/CD`
 
 ---
 
-### 💫 **Other Notable Projects**
+### 🔧 **CodeFusion**
 
-<table>
-<tr>
-<td align="center" width="50%">
+*LeetCode-like collaborative coding platform*
 
-#### 💕 **DevTinder**
-*Dating App for Developers*
+* Live code execution using Judge0 API
+* AI Assistance via Llama API
+* Real-time collaborative editing using Liveblocks
 
-A modern dating platform designed specifically for developers to connect based on technical skills and interests.
+**Tech:** `React.js` `Monaco Editor` `Llama API` `Judge0 API` `Liveblocks`
 
-**Tech:** `MERN Stack` `Socket.io` `JWT`
+---
 
-</td>
-<td align="center" width="50%">
+### 💑 **MergeMates**
 
-#### 🔧 **CodeFusion**
-*Collaborative Code Editor*
+*Tinder-style dev community matcher*
 
-Real-time collaborative coding platform with live syntax highlighting and multi-user editing capabilities.
+* Filter profiles by age, profession, marital status, etc.
+* Developer networking and community building platform
 
-**Tech:** `React.js` `Socket.io` `Monaco Editor`
+**Tech:** `MERN Stack` `Filter Logic` `Socket.io`
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+---
 
-#### 📄 **ResumeForge**
-*AI-Powered Resume Builder*
+### 📅 **QuickBill**
 
-Intelligent resume building platform with ATS optimization and multiple professional templates.
+*Invoice Generator for Freelancers and Businesses*
 
-**Tech:** `Next.js` `AI/ML` `TailwindCSS`
+* Generate downloadable, customizable invoices
+* Used by startups and freelancers for billing clients
 
-</td>
-<td align="center" width="50%">
+**Tech:** `React.js` `PDF Generation API` `TailwindCSS`
 
-#### 🐦 **TwitPilot**
-*Twitter Automation Tool*
+---
 
-Smart Twitter management tool for scheduling posts, analytics, and audience engagement.
+### 🌟 **TasteSync**
 
-**Tech:** `React.js` `Twitter API` `Node.js`
+*Content generation from Notion/Google Docs using audience taste*
 
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
+* Create content for LinkedIn, Twitter, and Email
+* Personalized via Qloo API for audience matching
 
-#### 🔒 **Priv-guard**
-*Privacy Protection Suite*
+**Tech:** `Next.js` `Notion API` `Google Docs API` `Qloo API` `TailwindCSS`
 
-Comprehensive privacy protection tool for securing personal data and online activities.
+---
 
-**Tech:** `Electron.js` `Node.js` `Encryption APIs`
+### 📅 **Resume AI Suite**
 
-</td>
-</tr>
-</table>
+*Smart Resume Builder with ATS & Job Matching*
+
+* Generate resumes from S3-hosted templates
+* ATS score analysis via Gemini API
+* Job description matching with resume skills
+
+**Tech:** `AWS S3` `Gemini API` `LangChain` `React.js`
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
+### 🌍 Open Source Contributions
 
-### 🌍 **Open Source Contributions**
 [![An image of @sidgureja7803's Holopin badges](https://holopin.me/sidgureja7803)](https://holopin.io/@sidgureja7803)
 
-**Hacktoberfest 2024 Active Contributor**
+* Hacktoberfest 2024 Active Contributor
 
-</div>
+### 🏅 Competition Achievements
 
-### 🏅 **Competition Achievements**
-- 🥇 **1st Place** - Hackmol 5.0, NIT Jalandhar
-- 🥉 **3rd Place** - CodeSprint, ACM TIET
-- 🏆 **Top 2%** - LeetCode Weekly Contests
+* 🥇 3rd Place - IBM TechXchange Dev Day - AI and Automation Unpacked + Hackathon! for building
+ClauseGuard, an AI-powered contract analysis tool; awarded $300 IBM Cloud credits.
+* 🥉 3rd Place - CodeSprint, ACM TIET
+* 🏆 Top 2% - LeetCode Weekly Contests
 
-### 📈 **Technical Milestones**
-- 💼 **110+ APIs** managed in INCUBATOR CRM
-- 🌐 **Open Source** contributor across multiple repositories
-- 📱 **Full Stack** applications serving real-world use cases
+### ⬆️ Technical Milestones
+
+* 💼 110+ APIs managed in INCUBATOR CRM
+* 🌐 Full Stack apps solving real-world challenges
+* 📊 Active contributor across multiple open-source repositories
 
 ---
 
@@ -206,7 +200,7 @@ Comprehensive privacy protection tool for securing personal data and online acti
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidgureja7803&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidgureja7803\&theme=tokyonight\&hide_border=false)
 
 </div>
 
@@ -216,7 +210,7 @@ Comprehensive privacy protection tool for securing personal data and online acti
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sidgureja?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/sidgureja)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sidgureja?theme=dark\&font=Nunito\&ext=contest)](https://leetcode.com/sidgureja)
 
 </div>
 
@@ -226,7 +220,7 @@ Comprehensive privacy protection tool for securing personal data and online acti
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidgureja7803&theme=tokyo-night&hide_border=true)](https://github.com/sidgureja7803)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidgureja7803\&theme=tokyo-night\&hide_border=true)](https://github.com/sidgureja7803)
 
 </div>
 
@@ -236,9 +230,9 @@ Comprehensive privacy protection tool for securing personal data and online acti
 
 ```javascript
 const siddhant = {
-    currentProjects: ["C4GT 2025 - Land Demarcation", "Advanced MERN Applications"],
-    learning: ["Next.js 14", "Three.js", "GSAP Animations", "Microservices"],
-    goals: ["Open Source Leadership", "Full Stack Mastery", "System Design"],
+    currentProjects: ["DevPilot AI", "CodeFusion", "TasteSync", "Resume Builder"],
+    learning: ["Next.js 14", "RAG", "LangChain", "CI/CD Pipelines"],
+    goals: ["GenAI Integration", "Full Stack Mastery", "DevOps Excellence"],
     funFact: "I debug with console.log and I'm proud of it! 🐛"
 };
 ```
@@ -249,7 +243,7 @@ const siddhant = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 </div>
 
@@ -257,15 +251,15 @@ const siddhant = {
 
 ## 🤝 Let's Build Something Amazing Together!
 
-I'm always excited to collaborate on innovative projects, contribute to open source, or discuss the latest in web development. Whether you're working on a startup idea, need help with a technical challenge, or want to brainstorm the next big thing in tech, I'd love to connect!
+I'm always excited to collaborate on innovative projects, contribute to open source, or discuss the latest in web development, GenAI, and DevOps. Let's connect and create something impactful.
 
 <div align="center">
 
-### 📫 Reach Out To Me
+### 📢 Reach Out To Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sidgureja.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidgureja)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhantgureja39@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)](https://sidgureja.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sidgureja)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:siddhantgureja39@gmail.com)
 
 **Let's innovate, create, and make an impact together!** 🚀
 
@@ -275,8 +269,8 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sidgureja7803&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/sidgureja7803.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sidgureja7803?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=sidgureja7803\&label=Profile%20views\&color=0e75b6\&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/sidgureja7803.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/sidgureja7803?tab=followers)
 
 **Thank you for visiting my profile! ⭐ Star some repositories if you find them interesting!**
 
