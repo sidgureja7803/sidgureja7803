@@ -12,8 +12,8 @@
 **Siddhant Gureja**  
 *B.E. Computer and Electronics Engineering* | *Thapar Institute of Engineering and Technology* (2022–Present)
 
-🔭 **Currently**: Code For GovTech 2025 - *Land Demarcation Tracker* for ADC Mahendragarh  
-💼 **Experience**: Ex-Full Stack Developer at Thapar Innovate (Incubator CRM)  
+🔭 **Currently**: SDE intern at @Zscaler ( Mohali )
+💼 **Experience**: Ex-Full Stack Developer at Thapar Innovate (Incubator CRM) and Contributor at Code For GovTech 2025 - *Land Demarcation Tracker* for ADC Mahendragarh  
 ☁️ **Certified**: AWS Cloud Practitioner | 🏆 **LeetCode**: Guardian (Rating: 2213)  
 
 Passionate about building scalable web apps, GenAI integration, system design, and open source contributions.
