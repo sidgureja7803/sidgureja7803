@@ -34,11 +34,8 @@ I enjoy building real-world products end-to-end — from architecture and APIs t
 ### **Software Development Engineer Intern — Zscaler**
 **Jan 2026 – Present | Mohali**
 
-- Working on **enterprise-scale systems** used by global customers  
-- Contributing to **backend services and internal tooling** with strict performance and security constraints  
-- Collaborating with senior engineers on **production-grade code, reviews, and design discussions**  
-
-> Exposure to real-world distributed systems, code quality standards, and security-first engineering.
+- Working on **large internal platforms**, including an **NPI Tracker** and an **AI-powered PRD Assistant**, migrating workflows and datasets from **Snowflake** and **Tableau** into a unified, AI-driven internal platform used across multiple teams  
+- Collaborating closely with the **Product Operations** team to design and build a **secure, scalable, and fully agentic system**, consolidating data and intelligence from disparate tools into a single internal platform
 
 ---
 
