@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AWS+Certified+Cloud+Practitioner;LeetCode+Guardian+(2213);C4GT+2025+Contributor" alt="Typing SVG" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sidgureja7803&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0F0F0F&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidgureja7803&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F0F&title_color=00D9FF" width="40%" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;SDE+Intern+@+Zscaler;AWS+Certified+Cloud+Practitioner;LeetCode+Guardian+(2213)" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sidgureja7803&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0F0F0F&title_color=00D9FF&icon_color=00D9FF" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidgureja7803&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F0F0F&title_color=00D9FF" width="40%" />
+
 </div>
 
 ---
@@ -10,105 +14,163 @@
 ## 👋 About Me
 
 **Siddhant Gureja**  
-*B.E. Computer and Electronics Engineering* | *Thapar Institute of Engineering and Technology* (2022–Present)
+B.E. Computer & Electronics Engineering  
+**Thapar Institute of Engineering & Technology** (2022 – Present)
 
-🔭 **Currently**: SDE intern at @Zscaler ( Mohali )
-💼 **Experience**: Ex-Full Stack Developer at Thapar Innovate (Incubator CRM) and Contributor at Code For GovTech 2025 - *Land Demarcation Tracker* for ADC Mahendragarh  
-☁️ **Certified**: AWS Cloud Practitioner | 🏆 **LeetCode**: Guardian (Rating: 2213)  
+I’m a **Full Stack Software Engineer** with strong foundations in **system design, scalable web applications, and cloud-native development**.  
+I enjoy building real-world products end-to-end — from architecture and APIs to performance optimization and deployment.
 
-Passionate about building scalable web apps, GenAI integration, system design, and open source contributions.
+- 💼 **Current**: **SDE Intern @ Zscaler (Mohali)**  
+- 🧑‍💻 **Experience**:  
+  - Ex Full Stack Developer @ **Thapar Innovate** (Incubator CRM)  
+  - **Contributor @ Code For GovTech 2025** — *Land Demarcation Tracker* for ADC Mahendragarh  
+- ☁️ **Certified**: AWS Certified Cloud Practitioner  
+- 🏆 **DSA**: LeetCode Guardian — **2213 rating**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidgureja7803&theme=tokyonight&hide_border=true&background=0F0F0F" width="60%" />
-</div>
+---
+
+## 🧑‍💼 Experience
+
+### **Software Development Engineer Intern — Zscaler**
+**Jan 2026 – Present | Mohali**
+
+- Working on **enterprise-scale systems** used by global customers  
+- Contributing to **backend services and internal tooling** with strict performance and security constraints  
+- Collaborating with senior engineers on **production-grade code, reviews, and design discussions**  
+
+> Exposure to real-world distributed systems, code quality standards, and security-first engineering.
+
+---
+
+### **Full Stack Developer — Thapar Innovate**
+**Incubator CRM Platform**
+
+- Built and scaled internal CRM modules used by **startup founders & incubator teams**
+- Designed REST APIs, dashboards, and role-based access flows
+- Improved developer velocity by standardizing reusable frontend components
+
+---
+
+### **Open Source Contributor — Code For GovTech 2025**
+**Land Demarcation Tracker | ADC Mahendragarh**
+
+- Building a **government-facing land tracking system**
+- Working on data modeling, dashboards, and reliability improvements
+- Focus on correctness, auditability, and long-term maintainability
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2FTypeScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
+### **Languages**
+- JavaScript (ES6+), TypeScript  
+- Java  
+- C++
 
-### Frontend
-<div align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
-</div>
+### **Frontend**
+- React.js, Next.js  
+- Redux Toolkit  
+- Tailwind CSS  
+- Framer Motion  
 
-### Backend & Database
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-%23FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-</div>
+### **Backend**
+- Node.js, Express.js  
+- REST APIs, WebSockets  
+- Authentication & Authorization flows  
 
-### Cloud & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+### **Databases**
+- PostgreSQL  
+- MongoDB  
+
+### **Cloud & DevOps**
+- AWS (EC2, IAM, basic networking)  
+- Docker  
+- Vercel, Render  
+
+### **Developer Tools**
+- Git & GitHub  
+- CI/CD fundamentals  
+- Linux environments  
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **CodeFusion** | Real-time collaborative coding platform with Dockerized judge & LLaMA AI debugging (100+ concurrent sessions) | React, Docker, Liveblocks, Judge0, LLaMA API | [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://codefusion-demo.vercel.app) |
-| **LiveCV** | AI-powered real-time resume builder with PDF export & Appwrite auth | React, Node.js, Appwrite, Tailwind | [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://livecv.sidgureja.com) |
-| **MergeMates** | "Tinder for Developers" - AI matching by tech stack with WebSockets chat | Next.js, MongoDB, WebSockets, AWS EC2 | [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=render&logoColor=white)](https://mergemates.app) |
-| **FoundrIQ** | GenAI-powered collaborative idea pitching platform | Next.js, Express, MongoDB, GenAI | [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://foundriq.vercel.app) |
+### **CodeFusion**
+**Real-time Collaborative Coding Platform**
 
----
+- Real-time multi-user code editing with synchronized state
+- Dockerized code execution using Judge0
+- Integrated **LLaMA-powered AI debugging assistant**
+- Scaled to **100+ concurrent sessions**
 
-## 🏆 Achievements & Recognition
-
-- 🥉 **3rd Prize @ IBM TechXchange Dev Day** - *ClauseGuard* (AI contract analysis) + $300 IBM Cloud credits
-- 🥉 **3rd Place @ ACM TIET CodeSprint** (Feb 2024)
-- **LeetCode Guardian** - Rating: **2213** | 20+ contests
-- **Top Contributor** - Hacktoberfest 2024 & Code For GovTech 2025
-- ☁️ **AWS Certified Cloud Practitioner**
+**Tech**: React, Docker, Liveblocks, Judge0, LLaMA API  
+**Live**: https://codefusion-demo.vercel.app
 
 ---
 
-## 📫 Let's Connect
+### **LiveCV**
+**AI-powered Resume Builder**
+
+- Real-time resume editing with PDF export
+- Secure authentication using Appwrite
+- Clean UX focused on developer resumes
+
+**Tech**: React, Node.js, Appwrite, Tailwind  
+**Live**: https://livecv.sidgureja.com
+
+---
+
+### **MergeMates**
+**“Tinder for Developers”**
+
+- AI-based developer matching by tech stack
+- Real-time chat using WebSockets
+- Deployed on AWS EC2
+
+**Tech**: Next.js, MongoDB, WebSockets, AWS  
+**Live**: https://mergemates.app
+
+---
+
+### **FoundrIQ**
+**GenAI-powered Idea Pitching Platform**
+
+- Collaborative startup ideation workflows
+- AI-assisted feedback and iteration
+
+**Tech**: Next.js, Express, MongoDB, GenAI  
+**Live**: https://foundriq.vercel.app
+
+---
+
+## 🏆 Achievements
+
+- 🥉 **3rd Prize — IBM TechXchange Dev Day**  
+  *ClauseGuard*: AI-powered contract analysis  
+- 🥉 **3rd Place — ACM TIET CodeSprint** (100+ participants)  
+- **LeetCode Guardian** — 2213 rating, 20+ contests  
+- **Top Contributor** — Hacktoberfest 2024, Code For GovTech 2025  
+- **AWS Certified Cloud Practitioner**
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://linkedin.com/in/sidgureja">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sidgureja">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/sidgureja">
-    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:siddhantgureja39@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidgureja7803&theme=tokyonight&hide_border=true&background=0F0F0F" width="65%" />
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-```javascript
+```js
 const siddhant = {
-  role: "Full Stack Developer",
-  currentMission: "Land Demarcation Tracker @ C4GT 2025",
-  learning: ["System Design", "Advanced AWS", "GenAI Agents"],
-  coreStack: ["React", "Node.js", "PostgreSQL", "Docker", "AWS"],
-  funFact: "Deployed to EC2 production | console.log debugger 🐛"
+  role: "Full Stack Software Engineer",
+  currentWork: "SDE Intern @ Zscaler",
+  openSource: "Land Demarcation Tracker (C4GT 2025)",
+  learning: ["System Design", "Advanced AWS", "Distributed Systems", "GenAI Agents"],
+  stack: ["React", "Node.js", "PostgreSQL", "Docker", "AWS"],
+  mindset: "Build things that scale and last"
 };
